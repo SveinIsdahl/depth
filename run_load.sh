@@ -1,0 +1,1 @@
+gcc load.c && ./a.out && rm -f a.out
